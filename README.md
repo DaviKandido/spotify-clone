@@ -4,7 +4,7 @@
 
 ## 🛠 Tecnologias  
 - **Frontend:** Next.js (React, TypeScript, TailwindCSS) 
-- **Backend:** Node.js com Express (TypeScript) 
+- **Backend:** Node.js com Express
 - **Banco de Dados:** MongoDB
 
 
